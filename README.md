@@ -58,8 +58,8 @@
 
 ## 📬 Contact Me
 - 📧 Email: devonlysystem@gmail.com
-- 🌍 Facebook: [yourwebsite.com](https://www.facebook.com/Black13032006/)
-- 🔗 LinkedIn: [yourwebsite.com](https://www.linkedin.com/in/phonepaseuth-keodouangchit-662137330/?originalSubdomain=la)
+- 🌍 Facebook: [Phonepaseuth Keodouangchit](https://www.facebook.com/Black13032006/)
+- 🔗 LinkedIn: [Phonepaseuth Keodouangchit](https://www.linkedin.com/in/phonepaseuth-keodouangchit-662137330/?originalSubdomain=la)
 
 ---
 
