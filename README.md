@@ -44,14 +44,14 @@
 
 ## 🔥 GitHub Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Black13313&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🚀 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black13313&layout=compact&theme=radical" />
 </p>
 
 ---
