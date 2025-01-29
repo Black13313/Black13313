@@ -1,29 +1,30 @@
 <h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&center=true&width=600&lines=Full+Stack+Developer;Vue3+%7C+TypeScript+%7C+Tailwind+%7C+Flutter;NuxtJs+%7C+Node.js+%7C+React+%7C+PHP+%7C+SQL;Figma+%7C+Protopie+%7C+Canva+%7C+UI%2FUX+Designer;Welcome+to+my+GitHub!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&center=true&width=600&lines=Full+Stack+Developer;Vue3+%7C+TypeScript+%7C+Tailwind+%7C+Flutter;NuxtJs+%7C+Node.js+%7C+NestJS+%7C+React+%7C+PHP+%7C+SQL;Figma+%7C+Protopie+%7C+Canva+%7C+UI%2FUX+Designer;Welcome+to+my+GitHub!+🚀" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎯 Passionate **Full-Stack Developer** & **UI/UX Designer**
-- 🔥 Expertise in **Vue 3, TypeScript, Tailwind, Flutter, React, Nuxt.js**
-- 🛠️ Backend Dev with **Node.js, PHP, MySQL, MongoDB, SQL**
-- 🎨 UI/UX & Prototyping with **Figma, Protopie, Canva**
-- 📈 Always learning & building innovative projects
+## 🚀 About Me
+- 🎯 **Full-Stack Developer** & **UI/UX Designer**
+- 🔥 **Frontend:** Vue 3, Nuxt.js, React, Flutter, Tailwind, TypeScript
+- 🛠️ **Backend:** Node.js, NestJS, PHP, MySQL, MongoDB, SQL
+- 🎨 **UI/UX & Prototyping:** Figma, Protopie, Canva
+- 🚀 **Building scalable & modern applications**
+- 📈 **Constantly learning & innovating!**
 
 ---
 
-## 🚀 Tech Stack & Tools
-### 🖥️ Frontend
+## 💻 Tech Stack & Tools
+### 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,nuxt,react,flutter,ts,js,html,css,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb,sql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,mongodb,sql" />
 </p>
 
 ### 🎨 UI/UX & Prototyping
@@ -48,7 +49,7 @@
 
 ---
 
-## 🎯 Top Languages
+## 🚀 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
 </p>
@@ -62,4 +63,6 @@
 
 ---
 
-### 🚀 “Code, Create, Innovate” 💡
+## 🎯 Quote
+> "Code, Create, Innovate – Transforming ideas into reality 🚀"
+
