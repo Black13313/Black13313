@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 - 🎯 **Full-Stack Developer** & **UI/UX Designer**
-- 🔥 **Frontend:** Vue 3, Nuxt.js, React, Flutter, Tailwind, TypeScript
-- 🛠️ **Backend:** Node.js, NestJS, PHP, MySQL, MongoDB, SQL
+- 🔥 **Frontend:** Vue 3, Nuxt.js, React, Flutter, Tailwind, TypeScript,Chart.js, Antdv, Pinia, XML, DaysyUI
+- 🛠️ **Backend:** Node.js, NestJS, PHP, MySQL, MongoDB, SQL, PostgreSQL, JAVA, pm2
 - 🎨 **UI/UX & Prototyping:** Figma, Protopie, Canva
 - 🚀 **Building scalable & modern applications**
 - 📈 **Constantly learning & innovating!**
@@ -17,14 +17,20 @@
 ---
 
 ## 💻 Tech Stack & Tools
+
 ### 🎨 Frontend
 <p align="center">
+  <!-- Note: Some additional tools might not have official icons on skillicons.dev. -->
   <img src="https://skillicons.dev/icons?i=vue,nuxt,react,flutter,ts,js,html,css,tailwind,bootstrap" />
+  <br>
+  <small>Additional: Chart.js, Antdv, Pinia, XML, DaysyUI</small>
 </p>
 
 ### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,mongodb,sql" />
+  <br>
+  <small>Additional: PostgreSQL, JAVA, pm2</small>
 </p>
 
 ### 🎨 UI/UX & Prototyping
@@ -65,4 +71,3 @@
 
 ## 🎯 Quote
 > "Code, Create, Innovate – Transforming ideas into reality 🚀"
-
