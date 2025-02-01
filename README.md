@@ -10,7 +10,7 @@
 - 🎯 **Full-Stack Developer** & **UI/UX Designer**
 - 🔥 **Frontend:** [Vue 3](https://vuejs.org/), [Nuxt.js](https://nuxtjs.org/), [React](https://reactjs.org/), [Flutter](https://flutter.dev/), [Tailwind](https://tailwindcss.com/), [TypeScript](https://www.typescriptlang.org/), [Chart.js](https://www.chartjs.org/), [Ant Design Vue](https://www.antdv.com/), [Pinia](https://pinia.vuejs.org/), [XML](https://www.w3.org/XML/), [DaisyUI](https://daisyui.com/)
 - 🛠️ **Backend:** [Node.js](https://nodejs.org/), [NestJS](https://nestjs.com/), [PHP](https://www.php.net/), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/), [SQL](https://en.wikipedia.org/wiki/SQL), [PostgreSQL](https://www.postgresql.org/), [Java](https://www.java.com/), [PM2](https://pm2.keymetrics.io/)
-- 🎨 **UI/UX & Prototyping:** Figma, Protopie, Canva
+- 🎨 **UI/UX & Prototyping:** [Figma](https://www.figma.com/), [Protopie](https://www.protopie.io/), [Canva](https://www.canva.com/)
 - 🚀 **Building scalable & modern applications**
 - 📈 **Constantly learning & innovating!**
 
@@ -24,7 +24,7 @@
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,mongodb,sql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,mongodb,sql,postgresql,java" />
 </p>
 
 ### 🎨 UI/UX & Prototyping
