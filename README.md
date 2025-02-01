@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 - 🎯 **Full-Stack Developer** & **UI/UX Designer**
-- 🔥 **Frontend:** Vue 3, Nuxt.js, React, Flutter, Tailwind, TypeScript,Chart.js, Antdv, Pinia, XML, DaysyUI
-- 🛠️ **Backend:** Node.js, NestJS, PHP, MySQL, MongoDB, SQL, PostgreSQL, JAVA, pm2
+- 🔥 **Frontend:** [Vue 3](https://vuejs.org/), [Nuxt.js](https://nuxtjs.org/), [React](https://reactjs.org/), [Flutter](https://flutter.dev/), [Tailwind](https://tailwindcss.com/), [TypeScript](https://www.typescriptlang.org/), [Chart.js](https://www.chartjs.org/), [Ant Design Vue](https://www.antdv.com/), [Pinia](https://pinia.vuejs.org/), [XML](https://www.w3.org/XML/), [DaisyUI](https://daisyui.com/)
+- 🛠️ **Backend:** [Node.js](https://nodejs.org/), [NestJS](https://nestjs.com/), [PHP](https://www.php.net/), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/), [SQL](https://en.wikipedia.org/wiki/SQL), [PostgreSQL](https://www.postgresql.org/), [Java](https://www.java.com/), [PM2](https://pm2.keymetrics.io/)
 - 🎨 **UI/UX & Prototyping:** Figma, Protopie, Canva
 - 🚀 **Building scalable & modern applications**
 - 📈 **Constantly learning & innovating!**
@@ -17,20 +17,14 @@
 ---
 
 ## 💻 Tech Stack & Tools
-
 ### 🎨 Frontend
 <p align="center">
-  <!-- Note: Some additional tools might not have official icons on skillicons.dev. -->
   <img src="https://skillicons.dev/icons?i=vue,nuxt,react,flutter,ts,js,html,css,tailwind,bootstrap" />
-  <br>
-  <small>Additional: Chart.js, Antdv, Pinia, XML, DaysyUI</small>
 </p>
 
 ### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,mongodb,sql" />
-  <br>
-  <small>Additional: PostgreSQL, JAVA, pm2</small>
 </p>
 
 ### 🎨 UI/UX & Prototyping
