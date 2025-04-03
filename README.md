@@ -1,7 +1,7 @@
 <h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&center=true&width=600&lines=Full+Stack+Developer;Vue3+%7C+TypeScript+%7C+Tailwind+%7C+Flutter;NuxtJs+%7C+Node.js+%7C+NestJS+%7C+React+%7C+PHP+%7C+SQL;Figma+%7C+Protopie+%7C+Canva+%7C+UI%2FUX+Designer;Welcome+to+my+GitHub!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&center=true&width=600&lines=Dev+Ops+Engineer;Vue3+%7C+TypeScript+%7C+Tailwind+%7C+Flutter;NuxtJs+%7C+Node.js+%7C+NestJS+%7C+React+%7C+PHP+%7C+SQL;Figma+%7C+Protopie+%7C+Canva+%7C+UI%2FUX+Designer;Welcome+to+my+GitHub!+🚀" />
 </p>
 
 ---
